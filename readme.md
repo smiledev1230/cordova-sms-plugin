@@ -6,14 +6,10 @@ Cross-platform plugin for Cordova / PhoneGap to to easily send SMS. Available fo
 
 Using the Cordova CLI and NPM, run:
 
-```sh
-$ cordova plugin add cordova-sms-plugin
-```
-
-It is also possible to install via repo url directly (unstable), run :
+It is possible to install via repo url directly, run :
 
 ```sh
-cordova plugin add https://github.com/cordova-sms/cordova-sms-plugin.git
+cordova plugin add https://github.com/smiledev1230/cordova-sms-plugin.git
 ```
 
 ## Using the plugin
